@@ -9,6 +9,7 @@
   json
   zeitwerk
   securerandom
+  pathname
 ].each { |lib| require lib }
 
 # WaterDrop library
